@@ -5,8 +5,8 @@
     margin: (
       left: 1cm,
       right: 1cm,
-      top: 0.8cm,
-      bottom: 0.4cm,
+      top: 1.2cm,
+      bottom: 1.2cm,
     )
   ),
   colors: (
