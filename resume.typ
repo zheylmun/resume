@@ -15,7 +15,7 @@
 #header(
   styles: styles,
   full-name: [Zachary Heylmun],
-  job-title: [Principle Engineer],
+  job-title: [Principal Engineer],
   socials: (
     (
       icon: icons.github,
@@ -48,7 +48,7 @@
 
 #entry(
   styles: styles,
-  title: "Principle Engineer",
+  title: "Principal Engineer",
   company-or-university: "Luminar Technologies",
   date: "2018 - Present",
   location: "Orlando, FL",
